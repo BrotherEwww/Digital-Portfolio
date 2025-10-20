@@ -2,9 +2,6 @@
 **Student:** Mogammat Nur Amod  
 **Module:** Project Presentation 3 (PRP370S)  
 **Assessment Type:** Work Readiness – Interview Skills  
-**Date Completed:** 07 March 2025  
-**Result:** 100% (Formative Assessment, MyClassroom – CPUT)
-
 ---
 
 ## Reflection using the STAR Technique
@@ -30,15 +27,6 @@ The activity also improved my ability to reflect critically on how preparation, 
 - Enhanced understanding of how to research companies and prepare effectively.  
 - Developed professional communication and self-presentation skills.  
 - Gained confidence in answering behavioural and situational interview questions.
-
----
-
-## Supporting Evidence
-- **Screenshot:** “Interview Skills – MyClassroom Result”  
-  - Source: MyClassroom (CPUT)  
-  - Submitted: 07/03/2025  
-  - Final Mark: 100%  
-  - Duration: 00:05:23  
 
 ---
 
