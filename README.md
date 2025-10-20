@@ -34,7 +34,7 @@ This portfolio showcases my journey and learnings from the Work Readiness Traini
 
 ## Navigation
 - [Business Communication](business-communication.md)  
-- [Interview Skills](interview-skills.md)  
+- [Interview Skills](Interview Skills.md)  
 - [Mock Interview](mock-interview.md)  
 - [Professional Networking](professional-networking.md)  
 - [Workplace Etiquette](workplace-etiquette.md)  
