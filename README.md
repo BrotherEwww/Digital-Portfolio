@@ -31,11 +31,3 @@ This portfolio showcases my journey and learnings from the Work Readiness Traini
 5.  **Workplace Etiquette**
     - *Evidence:*
     - *Reflection (STAR Technique):*
-
-## Sections
-- [Business Communication](Digital-Portfolio/business-communication/reflection.md)
-- [Interview Skills](Digital-Portfolio/Interview%20Skills/Interview%20Skills%20Reflection.md)
-- [Mock Interview](Digital-Portfolio/Mock%20Interview/Mock%20Interview%20Reflection.md)
-- [Professional Networking](Digital-Portfolio/Professional%20Networking/Professional%20Networking%20Reflection.md)
-- [Workplace Etiquette](Digital-Portfolio/Workplace%20Etiquette/Workplace%20Etiquette%20Reflection.md)
-
