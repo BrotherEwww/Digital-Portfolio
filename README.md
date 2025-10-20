@@ -1,4 +1,4 @@
-# Digital Portfolio: Work Readiness Training
+# Digital Portfolio
 
 **Name:** Mogammat Nur Amod  
 **Student ID:** 230543502  
