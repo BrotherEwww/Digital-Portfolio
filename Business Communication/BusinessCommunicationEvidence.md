@@ -28,7 +28,7 @@ The only minor error was an initial incorrect selection that I quickly corrected
 
 ---
 
-## 🧠 Key Learning Outcomes
+## Key Learning Outcomes
 - Strengthened understanding of professional communication in ICT environments.  
 - Recognised the importance of **tone, clarity, and professionalism** in written and verbal communication.  
 - Learned correct **email etiquette** and **video conferencing practices**.  
