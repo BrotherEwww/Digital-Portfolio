@@ -33,7 +33,8 @@ This portfolio showcases my journey and learnings from the Work Readiness Traini
     - *Reflection (STAR Technique):*
   
       ## Sections
-- [Business Communication](Business Communication/)
+- [Business Communication](Digital-Portfolio
+/Business Communication/)
 - [Interview Skills](Interview Skills/)
 - [Mock Interview](Mock Interview/)
 - [Professional Networking](Professional Networking/)
