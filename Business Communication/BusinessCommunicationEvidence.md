@@ -38,6 +38,3 @@ The only minor error was an initial incorrect selection that I quickly corrected
 
 ## Reflection Summary
 Completing this assessment deepened my understanding of how communication shapes professional relationships in the workplace. The experience highlighted the importance of professionalism, tone, and presentation in business environments, particularly in the ICT field. I now feel more confident in drafting professional correspondence and communicating effectively during meetings and collaborations.
-
----
-ion 3 (PRP370S) – Digital Portfolio**
